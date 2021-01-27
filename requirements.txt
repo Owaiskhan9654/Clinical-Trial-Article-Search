@@ -9,7 +9,7 @@ MarkupSafe==1.1.1
 nltk==3.5
 numpy==1.14.3
 packaging==20.8
-pandas==1.2.1
+pandas==1.1.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.5
